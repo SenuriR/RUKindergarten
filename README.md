@@ -2,6 +2,7 @@
 [CS112 - Data Structures] Simulate activities in a kindergarten classroom
 
 OVERVIEW OF FILES PROVIDED
+
 Student class which holds a student’s information.
 
 SNode class represents the node object to be used in the linked structures. It contains a reference to a Student object and a reference to the next node in the list.
